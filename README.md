@@ -8,7 +8,7 @@ The website showcases my skills, projects, certifications, and contact informati
 
 ## Live Website
 
-🔗 https://jaggu-cpu-afk.github.io/portfolio/
+🔗 [https://jaggu-cpu-afk.github.io/portfolio/](https://jaggu-cpu-afk.github.io/portfolio/)
 
 ---
 
