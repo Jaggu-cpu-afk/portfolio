@@ -1,6 +1,6 @@
 # Portfolio Website – Jagapathi Naidu M
 
-This project is a personal portfolio website developed as part of the **User Interface Design Lab (23CSE113)** at Amrita Vishwa Vidyapeetham.
+This project is a personal portfolio website developed as part of the **User Interface Design Lab (23AID215)** at Amrita Vishwa Vidyapeetham.
 
 The website showcases my skills, projects, certifications, and contact information in a clean and responsive layout using HTML and CSS.
 
